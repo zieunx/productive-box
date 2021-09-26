@@ -34,8 +34,8 @@ This project uses GitHub graphQL API to get the commit histories and write into 
    > enable `repo` scope seems **DANGEROUS**<br/>
    > but this GitHub Action only accesses your commit timestamp in repository you contributed.
 
-### Project setup
-
+### Project setup 
+ 
 1. Fork this repo
 1. Open the "Actions" tab of your fork and click the "enable" button
 1. Edit the [environment variable](https://github.com/maxam2017/productive-box/blob/master/.github/workflows/schedule.yml#L17-L18) in `.github/workflows/schedule.yml`:
